@@ -1,4 +1,4 @@
-# TSN_DEMO_01_Sum
-Сумма двух цифр
+# ODT_DEMO
+Простейшая программа для вычислений по формуле на Android
 ![Screenshot](screenshot.png)
 

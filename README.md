@@ -1,5 +1,5 @@
 # ODT_ANDROID_DEMO
-Простейшая программа суммы двух цифр на Android
+Простейшая программа для вычислений по формуле на Android
 
 ![Screenshot](screenshot.png)
-
+![Screenshot1](screenshot1.png)
