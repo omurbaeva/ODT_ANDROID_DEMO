@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Omurbaeva_DEMO_Android</string>
+    <string name="b">B=</string>
+
+    <string name="sum">Вычислить</string>
+    <string name="button_name">Введите цифры и нажмите кнопку "Вычислить"</string>
+    <string name="a">A=</string>2
+    <string name="x">X=</string>
+    <string name="logo">logo</string>
+</resources>
