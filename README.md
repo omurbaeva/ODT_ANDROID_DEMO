@@ -2,4 +2,4 @@
 Простейшая программа для вычислений по формуле на Android
 
 ![Screenshot](screenshot.png)
-![Screenshot1](screenshot1.png)
+![Screenshot](screenshot1.png)
